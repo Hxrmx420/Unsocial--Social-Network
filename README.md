@@ -24,21 +24,6 @@
 - **User Management**: Control user permissions and roles.
 
 ---
-
-## 🖥️ **Demo**
-
-🔗 **Live Demo**: [Unsocial Demo](https://your-live-demo-link.com)
-
-📸 **Screenshots**:
-
-1. **Homepage**  
-   ![Homepage Screenshot](path/to/homepage.png)
-
-2. **Post Details**  
-   ![Post Details Screenshot](path/to/post-details.png)
-
----
-
 ## ⚙️ **Tech Stack**
 
 ### **Frontend**
